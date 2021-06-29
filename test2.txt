@@ -12,6 +12,7 @@ sdas112222asdasd222    test11
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 4=====
 0-1
@@ -31,3 +32,10 @@ sdas112222asdasd222    test11
 asdas===
 
 Sadasdnew-88=
+=======
+5====
+
+33--kk
+>>>>>>> 3c8b96c4bcf0ccbc95d76ef31e255cee0ae0d94f
+
+why
